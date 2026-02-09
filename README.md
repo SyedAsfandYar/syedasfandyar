@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Syed Asfandyar Zaidi]
+# 👋 Hi, I'm Syed Asfandyar Zaidi
 
 Senior Software Engineer building scalable, maintainable software
 across mobile, web, and backend systems.
