@@ -3,6 +3,77 @@
 Senior Software Engineer building scalable, maintainable software
 across mobile, web, and backend systems.
 
+## 📂 Projects
+
+### 📱 Android Native Projects
+
+**Chat & Communication**
+- Chat Translator (All Languages, Multiple Versions)  
+- Voice Changer  
+- Reverse Voice  
+- Dictionary Lite (English–Urdu)  
+- Text Translator  
+- Rolling Icon  
+- Dynamic Island  
+
+**System & Device Utilities**
+- Multiple VPNs  
+- Edge Lightning & Always-On Display Projects  
+- System and Apps Updater  
+- Phone Updater  
+- Screen Guard  
+- Smartphone Cleaner (Multiple Editions)  
+- Software Updater  
+- Zipper Locker  
+- Battery Notifications  
+- Steps Counter  
+- Status Saver  
+- Don’t Touch My Phone  
+- Notepad  
+
+**Media & Entertainment**
+- Edge Music Animations  
+- Background Video Recorder  
+- Photo Recovery  
+- Reels Video Downloader  
+- Video Downloader (New)  
+- Fancy Text Style  
+- Body Editor  
+- Plant Identifier  
+
+**Tools & Utilities**
+- MapBox GPS  
+- Nick Name Generator  
+- Web Downloaders  
+- Ads Library  
+- Universal Remote Control  
+- Omega Translator  
+- Phone Cleaner  
+- Prank Call  
+- Prank Sounds  
+
+---
+
+### 📱 Android / iOS Cross-Platform Projects
+- IP Camera Application  
+- Learning Management System (LMS)  
+- Kids Educational Game  
+- Qonverse  
+- Delivery Management Application  
+- Finance Management Application  
+- E-commerce Application  
+- Employee Management System  
+- Multiple Client-Based Applications  
+
+---
+
+### 🌐 Web Platforms & Systems
+- **Certiqo** – Company Portfolio, LMS, Certifications System, HR Portal, Employee Portal, Finance Management ([certi-qo.com](https://certi-qo.com/))  
+- VPN Server Setup  
+- WebRTC Server Setup  
+- Additional Client Websites & Web Systems  
+
+
 ## 🧠 Areas of Expertise
 - **Mobile Development**
   - Android (Kotlin, Jetpack, KMP)
