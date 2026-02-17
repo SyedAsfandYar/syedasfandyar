@@ -14,7 +14,13 @@ across mobile, web, and backend systems.
 - Dictionary Lite (English–Urdu)  
 - Text Translator  
 - Rolling Icon  
-- Dynamic Island  
+- Dynamic Island
+
+**Management Systems**
+-IP Camera & Live Streaming Platform
+-Smart POS & Merchant Payment System 
+-Digital Wallet & Expense Management Platform 
+-Scalable LMS & Enterprise Management Systems 
 
 **System & Device Utilities**
 - Multiple VPNs  
