@@ -7,6 +7,33 @@ across mobile, web, and backend systems.
 
 ### 📱 Android Native Projects
 
+**Selected Product Engineering Projects**
+- AI Photo & Video Editing
+- Edge Lightning - Always on Display
+- Phone Cleaner
+- VPN Project with Servers Integration
+- AI Video Fun
+- AI Voice Clone
+- AI Voice Changer
+- Screen Guard
+- Chat Transaltors with Accessability Services features in Details
+- Creator Economy Tools
+- PDF & Office Utilities
+- Resume / Career Apps
+- Finance Calculators
+- Kids educational games (rewarded ads heavy)
+- GPS with multiple features
+- Flight Radar Tracker
+
+**Management Systems**
+- IP Camera & Live Streaming Platform
+- Smart POS & Merchant Payment System 
+- Digital Wallet & Expense Management Platform 
+- Scalable LMS & Enterprise Management Systems
+- Accounting Software
+- Institute Management System
+- Restaurant Management System
+
 **Chat & Communication**
 - Chat Translator (All Languages, Multiple Versions)  
 - Voice Changer  
@@ -15,12 +42,6 @@ across mobile, web, and backend systems.
 - Text Translator  
 - Rolling Icon  
 - Dynamic Island
-
-**Management Systems**
-- IP Camera & Live Streaming Platform
-- Smart POS & Merchant Payment System 
-- Digital Wallet & Expense Management Platform 
-- Scalable LMS & Enterprise Management Systems 
 
 **System & Device Utilities**
 - Multiple VPNs  
