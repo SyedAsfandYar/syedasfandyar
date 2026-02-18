@@ -13,9 +13,7 @@ across mobile, web, and backend systems.
 - Video/Audio Calling using WebRTC and Chat Features with Media sharing
 - Phone Cleaner
 - VPN Project with Servers Integration
-- AI Video Fun
-- AI Voice Clone
-- AI Voice Changer
+- AI Voice Changer and Cloning
 - Screen Guard
 - Chat Transaltors with Accessability Services features in Details
 - Creator Economy Tools
