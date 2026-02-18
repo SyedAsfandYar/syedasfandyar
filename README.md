@@ -10,6 +10,7 @@ across mobile, web, and backend systems.
 **Selected Product Engineering Projects**
 - AI Photo & Video Editing
 - Edge Lightning - Always on Display
+- Video/Audio Calling using WebRTC and Chat Features with Media sharing
 - Phone Cleaner
 - VPN Project with Servers Integration
 - AI Video Fun
